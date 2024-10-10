@@ -1,6 +1,6 @@
 import streamlit as st
 #import mysql.connector
-import openpyxl 
+#import openpyxl 
 
 # conexao = mysql.connector.connect(
 #     host='127.0.0.1',
