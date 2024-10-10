@@ -1,8 +1,8 @@
 import streamlit as st
-import pymysql
+import mysql.connector
 import openpyxl 
 
-conexao = pymysql.connector.connect(
+conexao = mysql.connector.connect(
     host='127.0.0.1',
     user='root',
     password='',
